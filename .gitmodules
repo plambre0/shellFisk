@@ -1,0 +1,30 @@
+[submodule "dependencies/eigen"]
+	path = dependencies/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "dependencies/dependencies/nlohmann"]
+	path = dependencies/dependencies/nlohmann
+	url = https://github.com/nlohmann/json.git
+[submodule "dependencies/morphologica"]
+	path = dependencies/morphologica
+	url = https://github.com/ABRG-Models/morphologica
+[submodule "dependencies/glfw"]
+	path = dependencies/glfw
+	url = https://github.com/glfw/glfw
+[submodule "dependencies/dependencies/glfw"]
+	path = dependencies/dependencies/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "dependencies/dependencies/freetype"]
+	path = dependencies/dependencies/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "dependencies/dependencies/jsoncpp"]
+	path = dependencies/dependencies/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "dependencies/dependencies/rapidxml"]
+	path = dependencies/dependencies/rapidxml
+	url = https://github.com/dwd/rapidxml.git
+[submodule "dependencies/dependencies/armadillo"]
+	path = dependencies/dependencies/armadillo
+	url = https://gitlab.com/conradsnicta/armadillo-code.git
+[submodule "dependencies/dependencies/hdf5"]
+	path = dependencies/dependencies/hdf5
+	url = https://github.com/HDFGroup/hdf5.git
