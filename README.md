@@ -1,3 +1,9 @@
+### Under Development
+
+```text
+shellFish is as a self-contained environment to perform reproducible data-engineering and statistical analysis at high performance for common biostatistics tasks. The language was deisgned to resemble UNIX commands for ease of access and simplicity. The environment supports undo/redo functionality, the outputting of all commands made during a session for traceability, and the export of the environment, similar to R.
+```
+
 ### Commands
 
 ```text
